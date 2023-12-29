@@ -1,6 +1,6 @@
 # learn-js
 
-**\*Description**: javascript notes for future reference\*
+***Description**: javascript notes for future reference*
 
 ## References
 
